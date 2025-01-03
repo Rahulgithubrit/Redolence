@@ -1,0 +1,14 @@
+.logoContainer {
+    text-align: center;
+}
+
+.logoText {
+    font-family: 'Georgia', serif;
+    font-size: 48px;
+    font-weight: bold;
+    background: linear-gradient(to right, #e91e63, #f48fb1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 0px;
+}

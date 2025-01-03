@@ -1,0 +1,59 @@
+/* CSS for Three Column Features Component */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffe4ea;
+    padding: 5rem;
+    text-align: center;
+    gap: 2rem;
+    width: 100%;
+}
+
+.feature {
+    flex: 1;
+    padding: 3rem;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.description {
+    font-size: 12px;
+    color: #666;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        flex-direction: column;
+        gap: 1.5rem;
+        padding: 2rem 50px;
+    }
+
+    .title {
+        font-size: 25px;
+    }
+
+    .description {
+        font-size: 12px;
+    }
+
+    .feature {
+        padding: 0px;
+    }
+}

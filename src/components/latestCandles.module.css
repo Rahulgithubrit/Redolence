@@ -1,0 +1,48 @@
+/* CSS for Background Banner Component */
+
+.bannerContainer {
+    background-image: url('https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735757656/banner_image-_secret_message_candle_wbd9cr.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 450px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    width: 100%;
+}
+
+.contentContainer {
+    text-align: left;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.ctaButton {
+    background-color: #ff5a5f;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.5rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.ctaButton:hover {
+    background-color: #e14e52;
+}
+
+@media (max-width: 480px) {
+    .bannerContainer {
+        align-items: end;
+    }
+}

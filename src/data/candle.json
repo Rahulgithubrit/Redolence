@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Peaceful Rose",
+    "description": "Discover the allure of our hidden message candle, a handcrafted treasure made with eco-friendly soy wax. Elegantly designed, it features customizable labels and heartfelt messages hidden inside. Perfect for any special occasion, this candle combines sophistication and surprise, creating a unique, thoughtful gift that adds warmth and meaning to memorable moments.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735655826/WhatsApp_Image_2024-12-31_at_19.58.04_a41cb5e9_kpgx1a.jpg",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735655826/WhatsApp_Image_2024-12-31_at_19.58.04_47c2c654_mamnwu.jpg",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735655825/WhatsApp_Image_2024-12-31_at_19.58.04_b83dd70f_pcpt5e.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "I LOVE YOU",
+    "description": "Experience the charm of the secret message candle, crafted with premium soy wax and set in an elegant tin. Its luxurious design reveals a hidden message as it burns, making it a romantic and thoughtful gift. Perfect for creating intimate moments, this glamorous candle is a timeless symbol of love and elegance.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668847/i_love_you_secret_message_candle_ljy9he.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668842/i_love_you_secret_message_candle_2_gtahyl.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668840/love_you_message_candle_xnjkz2.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "CHOCOLATE DAY",
+    "description": "Discover the allure of our message candles, crafted from premium soy wax for a clean and elegant burn. With every flicker, these luxurious candles reveal a heartfelt message, turning moments into cherished memories. Perfect as a romantic or thoughtful gift, they blend sophistication and sentiment, creating a warm, magical atmosphere for any occasion.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668352/Chocolate_day_message_p9d5lc.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668423/chChocolate_day_sweetheart_qxs9wl.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735662711/chocolate_day_candles_jmebbe.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "ROSE DAY",
+    "description": "Celebrate love and create unforgettable moments with our handmade soy wax candle, featuring a heartfelt candle message. Carefully crafted with premium materials, this customizable candle lets you inscribe a personal message for your loved one. Its luxurious design, combined with a warm, romantic glow, makes it the perfect gift for any special occasion.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735664120/WhatsApp_Image_2024-12-31_at_22.23.33_61403781_abzevi.jpg",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735663007/happy_rose_day_candle_mnqnos.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668834/rose_day_candle_igoepa.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "KISS DAY",
+    "description": "Add a touch of romance with our handmade soy wax candles with hidden message. Crafted with premium materials, each candle features a customizable message, perfect for expressing love. Its elegant design and warm glow create a charming atmosphere, making it an unforgettable gift for any special occasion. Thoughtfully designed, beautifully unique.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735662714/kiss_day_candle_sjlbfa.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735662713/kiss_day_candle_2_mlahs0.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735659135/hidden_message_candle_sguuya.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "PROMISE DAY",
+    "description": "Unveil heartfelt emotions with our hand-poured soy wax candle secret message. Personalize it with a hidden message for your loved one, crafted with care and premium materials. The elegant design and warm glow create a romantic ambiance, making it a unique and unforgettable gift for any special occasion. Thoughtfully made, beautifully yours.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735668008/happy_propose_day_candle_z1c5pi.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735662714/propose_day_candle_fbjibe.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735662710/propose_day_candle_2_oax7sf.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "YOUR HUGS MY SAFE HEAVEN",
+    "description": "Elevate your gifting with our hand-poured soy wax message candle, customized with heartfelt words for your loved one. Encircling the wick, the elegant script adds a romantic touch, making it a meaningful keepsake. Perfect for special occasions, this personalized candle blends sophistication and sentiment, creating a truly unforgettable gift of love.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735679743/your_hugs_my_safe_haven_znzulh.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735679738/your_hugs_my_safe_heaven_hg8cdx.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735679735/safe_heaven_xviecw.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "PROMISES MADE NEVER TO BREAK",
+    "description": "Celebrate love with our hand-poured soy wax candles, customized for your special someone. These elegant candles with messages inside bring warmth and meaning to every moment. Perfectly personalized, each creation is a heartfelt token of affection, making it an ideal gift to cherish forever. Wrap your love in light, beautifully.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735679748/promise_day_candle_rcuo60.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735679746/promise_day_slider_huaprx.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735679745/promise_made_never_to_break_b4srfl.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "TEDDY DAY MY DARLING",
+    "description": "Express your love with our hand-poured soy wax candles, thoughtfully customized for someone special. These elegant candles with messages bring a unique, personal touch to every moment. Perfect as a heartfelt gift, each candle lights up emotions and creates lasting memories. Designed to share love, beautifully and meaningfully.",
+    "price": "Rs 1299",
+    "images": [
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735671133/teddy_day_vyqnba.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735671132/tedyy_day_love_xcijar.png",
+      "https://res.cloudinary.com/dnlwb6g3p/image/upload/v1735671140/teddy_day_candles_flphpp.png"
+    ]
+  }
+]

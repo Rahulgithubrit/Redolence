@@ -1,0 +1,80 @@
+/* CSS for the Bundle Deal Component */
+
+.bundleDealContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 80px;
+  background-color: #fefefe;
+  border-radius: 10px;
+  margin: 2rem 0;
+}
+
+.imageContainer {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bundleImage {
+  max-width: 60%;
+  border-radius: 10px;
+}
+
+.textContainer {
+  flex: 1;
+  padding-left: 2rem;
+  text-align: left;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.note {
+  font-size: 0.9rem;
+  color: #999;
+  margin-bottom: 1.5rem;
+}
+
+.shopNowButton {
+  background-color: #fa4e68;
+  color: white;
+  border: none;
+  padding: 0.8rem 2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.shopNowButton:hover {
+  background-color: #ff3350;
+}
+
+@media (max-width: 480px) {
+  .bundleDealContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 28px;
+  }
+
+  .bundleImage {
+    max-width: 100%;
+  }
+
+  .textContainer {
+    padding-left: 0;
+  }
+}
